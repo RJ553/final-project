@@ -19,7 +19,8 @@ Under **Branch**, click on the dropdown that says `None`. Change it to `main`.
 
 ![main](https://github.com/user-attachments/assets/6b20442d-565e-4468-8fc9-9732de26a4a5)
 
-Click on save. Go back to your code by clicking code on the top menu.
+AHHHHHHHHHHHHhhhHHHHHHHHHHHHHHH
+
 
 ![code](https://github.com/user-attachments/assets/7ae69f62-6e83-4fdd-8c74-7db65225db58)
 
